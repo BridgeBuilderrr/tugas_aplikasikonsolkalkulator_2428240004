@@ -12,7 +12,7 @@ Aplikasi Kalkulator Konsol adalah program sederhana yang dibangun menggunakan ba
 - **Loop Berulang**: Pengguna dapat melakukan multiple perhitungan tanpa harus menjalankan ulang program
 
 ## Cara Menggunakan
-1. Jalankan program dengan perintah `dart run`
+1. Jalankan program dengan menekan tombol 'F5' atau ketik di terminal perintah `dart run`
 2. Masukkan bilangan pertama
 3. Masukkan bilangan kedua
 4. Pilih operasi yang diinginkan (1-4)
