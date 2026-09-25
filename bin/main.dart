@@ -34,6 +34,7 @@ void main() {
         try {
           stdout.write('Masukkan bilangan kedua: ');
           String? input2 = stdin.readLineSync();
+
           if (input2 == null || input2.isEmpty) {
             print('Error: Input tidak boleh kosong!');
             continue;
